@@ -1,0 +1,4 @@
+django==4.1.5
+graphene==3.2.1
+graphene-django==3.0.0
+pillow==9.4.0
